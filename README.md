@@ -1,2 +1,1 @@
-### I am a plugin developer
-### I am also like learning some progreaming skill
+### I am a bedrock server plugin developer
